@@ -1,4 +1,4 @@
-# ASL-Hand-Gesture-Detection 🤟
+# ASL Hand Gesture Detection 🤟
 
 A real-time ASL alphabet classifier using Mediapipe for hand landmark detection and a Random Forest classifier.
 
